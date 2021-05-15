@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Amar Shinde</title>
+    <link>https://amar8600.github.io/Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Amar Shinde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://amar8600.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aspect Based Sentiment Analysis</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-3/</guid>
+      <description>Aspect-based sentiment analysis is a text analysis technique that breaks down text into aspects (attributes or components of a product or service), and then allocates each one a sentiment level (positive, negative or neutral).
+Github Respository Link</description>
+    </item>
+    
+    <item>
+      <title>Captcha Solver</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-8/</guid>
+      <description>While Scrapping amazon website there was a frequent checks of captcha so it slows down the process so with the help of deep learning algorithms the captcha solving was made.
+Github Respository Link</description>
+    </item>
+    
+    <item>
+      <title>Consumer Complaints Resolution</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-1/</guid>
+      <description>Consumer complaint resolution is important to any business. In this particular case the dataset have been given detailed consumer complaints along with whether consumer disputed with the conclusion. If we are able to predict this,consumer who is more likely to dispute a conclusion can be given more attention as to how the complaints are handled as well as how persuasively the final conlusions are conveyed to them.
+Github Respository Link</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://amar8600.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     YouTube: https://www.youtube.com/c/kenjee1?sub_confirmation=1   Website: https://www.playingnumbers.com, https://kennethjee.com/   Twitter: https://twitter.com/KenJee_DS   LinkedIn: https://www.linkedin.com/in/kenjee/   Medium: https://medium.com/@kenneth.b.jee   GitHub: https://github.com/PlayingNumbers    </description>
+    </item>
+    
+    <item>
+      <title>Melbourne House Prediction</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-5/</guid>
+      <description>Designed a model for House price prediction and compared the various models like Xgboost, Gradient Boosting Regression model, Lasso Regression model, Random Forest Model with Linear Regression model.
+Github Respository Link</description>
+    </item>
+    
+    <item>
+      <title>Multi Label Image Classification</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-4/</guid>
+      <description>Multi-label classification and the strongly related problem of multi-output classification are variants of the classification problem where multiple labels may be assigned to each instance. Multi-label classification is a generalization of multiclass classification, which is the single-label problem of categorizing instances into precisely one of more than two classes; in the multi-label problem there is no constraint on how many of the classes the instance can be assigned to.
+Github Respository Link</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis For Instagram</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-6/</guid>
+      <description>Sentiment analysis on the people caption post in Instagram was done with the help of the text preprocessing and using some NLP techniques.
+Github Respository Link</description>
+    </item>
+    
+    <item>
+      <title>To Mail or Not to Mail</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-2/</guid>
+      <description>Direct mailings to a company’s potential customers – “junk mail” to many – can be a very effective way for them to market a product or a service. However, as we all know, much of this junk mail is really of no interest to the people that receive it. Most of it ends up thrown away, not only wasting the money that the company spent on it,but also filling up landfill waste sites or needing to be recycled.</description>
+    </item>
+    
+    <item>
+      <title>Website with django</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-7/</guid>
+      <description>There are different sources for getting information on technologies and other stuff so website made on the basis of the web scrapping from multiple platform to display on the one platform.
+Github Respository Link</description>
+    </item>
+    
+    <item>
+      <title>Yoga Poses Estimation</title>
+      <link>https://amar8600.github.io/Portfolio/post/chapter-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amar8600.github.io/Portfolio/post/chapter-9/</guid>
+      <description>End-to-End Deep learning model with the help of the TensorFlow library for tracking the human poses from video, images, and webcam and made detection of yoga poses from the video feed and store the sub clip part of the video feed.</description>
+    </item>
+    
+  </channel>
+</rss>
